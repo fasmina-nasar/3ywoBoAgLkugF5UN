@@ -1,7 +1,7 @@
 Potential Talents
 ==============================
 
-Rankink candidates to check how fit the candidate is based on a fitness score. Re-rank candidates when a candidate is starred  
+Ranking candidates to check how fit the candidate is based on a fitness score. Re-rank candidates when a candidate is starred  
 
 Project Organization
 ------------
